@@ -8,12 +8,14 @@ xml parse code design mode comes from [github.com/iovxw/rssbot](https://github.c
 
 # Benchmark
 
-> **The above figures are from debug mode**
+> *The following data is from debug mode.*
 
 ### PC1
 
 Browser: `Microsoft Edge 101.0.1210.39`
 Hardware: `CPU: i7-12700H` `Mem: 32G` 
+
+> The i7-12700 is a relatively powerful CPU. These figures are for reference only.
 
 from wasm_bindgen_test:
 
