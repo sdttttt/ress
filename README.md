@@ -8,9 +8,7 @@ xml parse code design mode comes from [github.com/iovxw/rssbot](https://github.c
 
 # Benchmark
 
-Under the blessing of WASM of Rust, the memory copy is optimized and the excellent RSS parsing speed is achieved.
-
-> **The above figures are from development mode, which are expected to release mode even better**
+> **The above figures are from debug mode**
 
 ### PC1
 
