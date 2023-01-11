@@ -1,21 +1,21 @@
-# Wasm for Ressu
+# Ress (Wasm for Ressu)
 
 Part of the functionality of Ressu's WASM implementation, responsible for the RSS/XML parse and process work. 
 
 xml parse code design mode comes from [github.com/iovxw/rssbot](https://github.com/iovxw/rssbot).
 
-> This section may be released as an NPM package in the future.
+> This is a partial learning project for the purpose of WASM.
 
 # Benchmark
 
-Under the blessing of WASM of Rust, the memory copy is optimized and the excellent RSS parsing speed is achieved.
-
-> **The above figures are from development mode, which are expected to release mode even better**
+> *The following data is from debug mode.*
 
 ### PC1
 
 Browser: `Microsoft Edge 101.0.1210.39`
 Hardware: `CPU: i7-12700H` `Mem: 32G` 
+
+> The i7-12700 is a relatively powerful CPU. These figures are for reference only.
 
 from wasm_bindgen_test:
 
