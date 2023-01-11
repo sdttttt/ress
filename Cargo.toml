@@ -1,10 +1,10 @@
 [package]
-name = "wasm"
+name = "ress-wasm"
 version = "0.1.0"
-authors = ["Lin <sdttttt@icloud.com>"]
+authors = ["sdttttt <sdttttt@outlook.com>"]
 edition = "2018"
-repository = "https://github.com/sdttttt/ressu"
-description = "Rss Parse from Ressu."
+repository = "https://github.com/sdttttt/ress"
+description = "Rss Parser, using WASM implementation."
 license = "unlicense"
 
 [package.metadata.wasm-pack.profile.dev]
