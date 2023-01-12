@@ -4,9 +4,14 @@ This is a subproject of Ressu, responsible for the RSS/XML parse and process wor
 
 xml parse code design mode comes from [iovxw/rssbot](https://github.com/iovxw/rssbot). provides excellent XML parsing extensibility.
 
+- currently supports only rss2.0.
+
 ## Benchmark
 
 > *The following data is from debug mode.*
+
+
+
 
 ### PC1
 
