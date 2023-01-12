@@ -4,8 +4,6 @@ Part of the functionality of Ressu's WASM implementation, responsible for the RS
 
 xml parse code design mode comes from [github.com/iovxw/rssbot](https://github.com/iovxw/rssbot).
 
-> This is a partial learning project for the purpose of WASM.
-
 # Benchmark
 
 > *The following data is from debug mode.*
