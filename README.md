@@ -2,7 +2,7 @@
 
 Part of the functionality of Ressu's WASM implementation, responsible for the RSS/XML parse and process work. 
 
-xml parse code design mode comes from [github.com/iovxw/rssbot](https://github.com/iovxw/rssbot).
+xml parse code design mode comes from [iovxw/rssbot](https://github.com/iovxw/rssbot). provides excellent XML parsing extensibility.
 
 # Benchmark
 
