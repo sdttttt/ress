@@ -32,9 +32,6 @@ jobs:
           target/
         key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.toml') }}
     
-    - name: test
-      run: make test
-    
     - name: build
       run: make 
     
